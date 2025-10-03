@@ -87,9 +87,11 @@
 
     <section>
         <h3>Newsletter Sign Up</h3>
-        <form>
-            <label for="email">Email Address:</label><br>
-            <input type="text" id="email" name="email"><br>
+        <form name="newsletter" method="POST" data-netlify="true">
+            <label for="email">Email Address:<br>
+                <input type="email" id="email" name="email"><br>
+            </label>
+            <button type="submit">Sign Up</button>
         </form>
         
 
