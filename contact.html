@@ -20,11 +20,11 @@
 
     <section>
         <h2>Contact Form</h2>
-        <form>
+        <form name="contact" method="POST" data-netlify="true">
             <label for="name">Name:</label><br>
             <input type="text" id="name" name="name"><br>
             <label for="email">Email Address:</label><br>
-            <input type="text" id="email" name="email"><br>
+            <input type="email" id="email" name="email"><br>
             <label for="reason">Reason for Contact:</label><br>
             <select name="reason" id="reason">
                 <option value="hi">Saying hi</option>
@@ -32,7 +32,7 @@
                 <option value="interview">Interested in an Interview</option>
             </select><br>
             <label for="comments">Open Comments</label><br>
-            <input type="text" id="comments" name="comments"><br>
+            <textarea id="comments" name="comments" rows="5" cols="33"></textarea><br>
             <input type="submit" value="Submit"><br>
         </form>
     </section>
