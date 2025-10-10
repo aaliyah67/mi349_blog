@@ -65,7 +65,7 @@ article {
 }
 
 input[type="email"] {
-    border: 2px;
+    border: 2px solid black;
     border-radius: 5px;
     padding: 8px;
 }
