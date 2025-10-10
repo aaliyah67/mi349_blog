@@ -26,3 +26,7 @@ p {
 figure {
     margin: 10px;
 }
+
+figcaption {
+    font-style: italic;
+}
