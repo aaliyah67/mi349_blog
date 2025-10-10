@@ -14,3 +14,15 @@ header {
 h1 {
     text-align: center;
 }
+
+h2 {
+    color: black;
+}
+
+p {
+    line-height: 1.6;
+}
+
+figure {
+    margin: 10px;
+}
