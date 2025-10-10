@@ -78,3 +78,10 @@ input[type="email"] {
     padding: 8px;
     margin-bottom: 10px;
 }
+
+#reason {
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 8px;
+    margin-bottom: 10px;
+}
