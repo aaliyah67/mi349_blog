@@ -4,3 +4,9 @@ body {
     color: black;
     border-top: 10px solid black;
 }
+
+header {
+    background: blueviolet;
+    color: white;
+    padding: 10px;
+}
