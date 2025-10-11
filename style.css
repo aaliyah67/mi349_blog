@@ -66,6 +66,7 @@ article {
 .blog-post {
     margin-bottom: 30px;
     line-height: 1.7;
+    flex: 100px;
 }
 
 #email {
