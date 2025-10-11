@@ -59,14 +59,14 @@ article {
     border-radius: 8px;
     margin-bottom: 20px;
     padding: 20px;
-    
+    flex: 1;
 
 }
 
 .blog-post {
     margin-bottom: 30px;
     line-height: 1.7;
-    display: flex;
+    
     
 }
 
@@ -104,4 +104,6 @@ input[type="email"] {
 }
 
 
-
+section {
+    display: flex;
+}
