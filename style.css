@@ -120,7 +120,3 @@ form[name="newsletter"] input {
     width: 50%;
 }
 
-form[name="newsletter"] button {
-    flex: 1;
-
-}
