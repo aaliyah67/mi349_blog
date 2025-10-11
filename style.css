@@ -62,7 +62,6 @@ article {
 .blog-post {
     margin-bottom: 30px;
     line-height: 1.7;
-    display: flex;
 }
 
 #email {
@@ -97,5 +96,6 @@ input[type="email"] {
     padding: 8px;
     margin-bottom: 10px;
 }
+
 
 
