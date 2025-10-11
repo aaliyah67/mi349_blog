@@ -109,6 +109,7 @@ input[type="email"] {
 
 form[name="newsletter"] {
     display: flex;
+    gap: 5px;
 }
 
 form[name="newsletter"] label {
