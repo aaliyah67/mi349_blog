@@ -113,10 +113,14 @@ form[name="newsletter"] {
 }
 
 form[name="newsletter"] label {
-flex: 2;
+flex: 0;
 }
 
 form[name="newsletter"] input {
-    width: 50%;
+    flex: 1;
+}
+
+form[name="newsletter"] button {
+    flex: 0;
 }
 
