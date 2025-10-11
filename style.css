@@ -107,4 +107,7 @@ input[type="email"] {
     margin-bottom: 10px;
 }
 
+form label {
+    flex: 1;
+}
 
