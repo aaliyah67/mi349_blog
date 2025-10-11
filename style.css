@@ -110,7 +110,7 @@ input[type="email"] {
 form[name="newsletter"] {
     display: flex;
     gap: 5px;
-    margin: 0 auto;
+    margin: auto;
 }
 
 form[name="newsletter"] label {
