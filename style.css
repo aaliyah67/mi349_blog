@@ -40,6 +40,10 @@ form {
     display: flex;
 }
 
+form label {
+    flex: 20px;
+}
+
 label {
     display: block;
     
