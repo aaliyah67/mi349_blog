@@ -37,11 +37,25 @@ img {
 
 form {
     margin-top: 20px;
-    
+    display: flex;
     
 }
 
+form label {
+    flex: 1;
+}
 
+form input {
+    flex: 1 0 55%;
+}
+
+form select {
+    flex: 1 0 55%;
+}
+
+form textarea {
+    flex: 1 0 55%;
+}
 
 label {
     display: block;
@@ -68,8 +82,7 @@ article {
 .blog-post {
     margin-bottom: 30px;
     line-height: 1.7;
-    display: flex;
-  
+    
     
     
 }
